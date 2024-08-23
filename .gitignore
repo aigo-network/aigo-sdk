@@ -1,0 +1,7 @@
+node_modules
+compile_commands.json
+
+cache
+artifacts
+
+.env*
